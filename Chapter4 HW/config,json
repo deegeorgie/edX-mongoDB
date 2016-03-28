@@ -1,0 +1,6 @@
+{
+  "facebookClientId": "YOUR_KEY_HERE",
+  "facebookClientSecret": "YOUR_KEY_HERE",
+  "stripeKey": "YOUR_KEY_HERE",
+  "openExchangeRatesKey": "YOUR_KEY_HERE"
+}
